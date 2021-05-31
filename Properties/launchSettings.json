@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "rotate_stuff": {
+      "commandName": "Project",
+      "commandLineArgs": "sms_hsv_palette.png 6 10 5",
+      "workingDirectory": "c:\\temp\\"
+    }
+  }
+}
